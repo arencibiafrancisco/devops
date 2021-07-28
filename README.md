@@ -24,7 +24,7 @@ checkov -d .
 
 This would the result:
 
-![checking terraform code](src)
+![checking terraform code](https://github.com/arencibiafrancisco/devops/blob/main/terraform%20audit.png)
 
 
 
