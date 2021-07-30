@@ -8,7 +8,7 @@
 ## Terraform
 
 In this quick example we are going to audit a terraform code. In this case I'm using Ubuntu 20.04 but in the official documentation 
-you can check all available options. So lets install checkov in our system, this could be done using a pipeline like Gitlab and run this checkov test before merging terraform code, this would like the best use  we could do of this tool.
+you can check all available options. So lets install checkov in our system, this could be done using a pipeline like Gitlab and run this checkov test before merging terraform code, this would be like the best use  we could do of this tool.
 
 
 ```markdown
