@@ -25,13 +25,3 @@ checkov -d .
 This would the result:
 
 ![checking terraform code](https://github.com/arencibiafrancisco/devops/blob/main/terraform%20audit.png)
-
-
-
-
-You can use the [editor on GitHub](https://github.com/arencibiafrancisco/devops/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-
-
-
-
